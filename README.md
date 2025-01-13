@@ -1,4 +1,4 @@
-## Hello! I'm Gui Souza, a software developer focused on back-end programming.
+## Hello! I'm Gui Souza, a software developer.
 
 💻 Software Developer with experience in Spring Boot, Angular, PHP Laravel and CodeIgniter. Strong knowledge in HTML, CSS, SQL, and Git, contributing across various stages of web and corporate systems development.
 
